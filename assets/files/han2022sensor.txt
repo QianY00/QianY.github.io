@@ -1,0 +1,10 @@
+@article{han2022sensor,
+  title={Sensor selection and tool wear prediction with data-driven models for precision machining},
+  author={Han, Seulki and Yang, Qian and Pattipati, Krishna R and Bollas, George M},
+  journal={Journal of Advanced Manufacturing and Processing},
+  volume={4},
+  number={4},
+  pages={e10143},
+  year={2022},
+  publisher={Wiley Online Library}
+}
