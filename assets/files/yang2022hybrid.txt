@@ -1,0 +1,9 @@
+@article{yang2022hybrid,
+  title={Hybrid data-driven and model-informed online tool wear detection in milling machines},
+  author={Yang, Qian and Pattipati, Krishna R and Awasthi, Utsav and Bollas, George M},
+  journal={Journal of manufacturing systems},
+  volume={63},
+  pages={329--343},
+  year={2022},
+  publisher={Elsevier}
+}
