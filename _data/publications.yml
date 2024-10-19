@@ -39,6 +39,7 @@ main:
     conference: IEEE Transactions on Power Electronics
     pdf: 
     page: https://ieeexplore.ieee.org/abstract/document/9674845
+    bibtex: ./assets/files/yang2022incipient.txt 
     image: 
     citation: c-S0TMsAAAAJ:9yKSN-GCB0IC
     notes: Published
