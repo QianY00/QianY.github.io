@@ -1,14 +1,14 @@
 main:
 
-  - title: MTool wear and remaining useful life estimation in precision machining using interacting multiple model
+  - title: Tool wear and remaining useful life estimation in precision machining using interacting multiple model
     authors: <strong>Qian Yang</strong>, Debasish Mishra, Utsav Awasthi, George M Bollas, Krishna R Pattipati
     conference_short: 
     conference: Journal of Manufacturing Systems
     pdf: 
     page: https://www.sciencedirect.com/science/article/abs/pii/S0278612524000670
-    bibtex: 
+    bibtex: ./assets/files/yang2024tool.txt
     image: 
-    citation: 
+    citation: c-S0TMsAAAAJ:Y0pCki6q_DkC
     notes: Published
 
   - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
