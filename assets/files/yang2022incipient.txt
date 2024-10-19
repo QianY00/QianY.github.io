@@ -1,0 +1,10 @@
+@article{yang2022incipient,
+  title={Incipient residual-based anomaly detection in power electronic devices},
+  author={Yang, Qian and Gultekin, Muhammed Ali and Seferian, Vahe and Pattipati, Krishna and Bazzi, Ali M and Palmieri, Francesco AN and Rajamani, Ravi and Joshi, Shailesh N and Farooq, Muhamed and Ukegawa, Hiroshi},
+  journal={IEEE Transactions on Power Electronics},
+  volume={37},
+  number={6},
+  pages={7315--7332},
+  year={2022},
+  publisher={IEEE}
+}
