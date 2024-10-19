@@ -2,8 +2,7 @@
 
 <h2 style="margin: 30px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> </a>
-<br />
+
 <strong>Office Location:</strong> 371 Fairfield Way, Storrs, Connecticut 06269
 <br />
 <strong>Email:</strong> <email>qian.4.yang (at) uconn.edu</email>
